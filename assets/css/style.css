@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(18, 18, 18);
+    color: rgb(143, 143, 143);
+}
+
+header h1 {
+    text-align: center;
+    color: white;
+}
+
+header h2 {
+    text-align: center;
+    color: rgb(159, 159, 169);
+}
+
+header p {
+    text-align: left;
+    margin: 0px;
+    padding: 15px;
+}
+
+main {
+    margin: 0px;
+    padding: 15px;
+}
+
+main * {
+    margin: 0px;
+    margin-bottom: 10px;
+}
+
+main h1 {
+    color: white;
+    margin-bottom: 10px;
+}
+
+main ul ul {
+    margin-top: 10px;
+}
