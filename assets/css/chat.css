@@ -1,0 +1,9 @@
+.loginContainer {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+}
+
+.loginContainer button {
+    width: auto;
+}
